@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html class="html">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hybrid Bands</title>
+        <script src="code.js" type="text/javascript" charset="utf-8"></script>        
+        <link href="stylehome.css" rel="stylesheet" type="text/css">
+    </head>
+<body class="body1">
+<div class="navbar">
+    <ul class="ulnav">
+        <li class="linav"><a href="about.html">About</a></li>
+        <li class="linav"><a href="contact.html">Contact</a></li>
+        <li class="linav"><a href="products.html">Products</a></li>
+        <li class="linav"><a class="active" href="home.html">Home</a></li>
+    </ul>
+  
+
+  
+	<div class="paragraph">Welcome to Hybrid Bands</div>
+	<div class="paragraph">We are a small uprising business that gets rubber wristbands produced in China, and shipped here for you to enjoy. We custom print bands for our customers, as well as some designs made by us. Thank you for supporting us.</div>
+	<div class="paragraph">- The Hybrid Bands Team</div>
+	<div class="dividerproducts"></div>
+    </body>
+</html>
